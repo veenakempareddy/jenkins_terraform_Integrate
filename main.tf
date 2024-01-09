@@ -1,7 +1,7 @@
 provider "aws" {
     region = "ap-south-1" # Desired region for resource creation
-    access_key = 'AKIAQ6PPDBWXFK4LECZS'  #access key of the user
-    secret_key = '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'  #secret key of the user
+    access_key = "AKIAQ6PPDBWXFK4LECZS"  #access key of the user
+    secret_key = "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"  #secret key of the user
 }
 
 
